@@ -1,0 +1,4 @@
+celery>=5.2.7
+google-cloud-pubsub>=2.13.0
+flask>=2.2.3
+python-dotenv>=1.0.0
